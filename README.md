@@ -27,3 +27,6 @@ No arquivo package.json adicionar os comando para executar o script de uma vez
 
 E após isso executar o projeto com 
 npm run start
+
+Permite executar uma classe especifica sem ter que compila-la.
+npm install ts-node-dev -D
